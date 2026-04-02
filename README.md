@@ -1,2 +1,2 @@
 # Agentic-AI-by-Aasif
-Agentic AI use only Educational Purpose.
+Agentic AI use only for Educational Purpose.
